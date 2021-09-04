@@ -1,0 +1,12 @@
+.btn {
+  padding: 8px 16px;
+  background-color: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+
+}
+
+.btn-redButton {
+  background-color: $primary-color;
+  color: $white;
+}
